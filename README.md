@@ -1,7 +1,9 @@
 # Availability-Aware Routing
 
-This repository contains implementations and evaluation scripts related to  
-**Availability-Aware Routing in the Presence of Geographically Correlated Failures**, INFOCOM
+This repository contains implementations and evaluation scripts related to the following paper:
+Balázs Vass, Levente Birszki, Erika Bérczi-Kovács, Péter Babarczi, Péter Gyimesi, and János Tapolcai,
+"Availability-Aware Routing in the Presence of Geographically Correlated Failures,"
+IEEE INFOCOM 2022 - IEEE Conference on Computer Communications, Tokyo, Japan, May 2026
 
 ---
 
